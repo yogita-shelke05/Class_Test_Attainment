@@ -7,8 +7,6 @@ based on Outcome Based Education (OBE).
 This system allows students to view their marks and enables the admin 
 to analyze overall CO attainment efficiently.
 
----
-
 ## 🎯 Project Objectives
 
 - Store PA Test marks CO-wise  
@@ -16,8 +14,6 @@ to analyze overall CO attainment efficiently.
 - Determine attainment status (≥ 45%)  
 - Provide complete CO analysis for admin  
 - Implement Outcome Based Education (OBE) concept  
-
----
 
 ## ✨ Features
 
@@ -38,8 +34,6 @@ to analyze overall CO attainment efficiently.
 - Highest & Lowest CO Performance
 - Overall Attainment Summary
 
----
-
 ## 🛠 Technologies Used
 
 - PHP
@@ -47,8 +41,6 @@ to analyze overall CO attainment efficiently.
 - HTML
 - CSS
 - XAMPP (Apache + MySQL)
-
----
 
 ## ⚙️ How to Run the Project
 
@@ -63,8 +55,6 @@ to analyze overall CO attainment efficiently.
 7. Open browser and visit:
    http://localhost/class_test_attainment
 
----
-
 ## 🔐 Login Details
 
 ### Admin Login
@@ -74,8 +64,6 @@ to analyze overall CO attainment efficiently.
 ### Student Login
 - Register first using Registration page  
 - Login using Enrollment Number and Password  
-
----
 
 ## 📂 Project Modules
 
@@ -87,16 +75,12 @@ to analyze overall CO attainment efficiently.
 - admin_login.php → Admin Login  
 - admin.php → Admin Panel & Attainment Analysis  
 
----
-
 ## 📌 Attainment Criteria
 
 CO Attainment is considered:
 
 CO Percentage ≥ 45%  → Achieved  
 CO Percentage < 45%  → Not Achieved  
-
----
 
 ## 📸 Project Screenshots
 
@@ -122,15 +106,12 @@ CO Percentage < 45%  → Not Achieved
 ### 📊 Admin Panel – Student Records & CO Attainment
 ![Admin Dashboard](./screenshots/admin-dashboard.png)
 
----
-
 ## 🧑‍💻 Author
 
 Yogita Shelke  
 B.Tech / Diploma in Information Technology  
 Academic Project  
 
----
 
 ## 📎 Note
 

@@ -112,7 +112,6 @@ Yogita Shelke
 B.Tech / Diploma in Information Technology  
 Academic Project  
 
-
 ## 📎 Note
 
 This project is developed for educational purposes only and demonstrates

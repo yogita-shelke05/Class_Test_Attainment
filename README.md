@@ -47,7 +47,6 @@ to analyze overall CO attainment efficiently.
 1. Install XAMPP  
 2. Copy the project folder into:
    C:\xampp\htdocs\class_test_attainment
-
 3. Start Apache and MySQL from XAMPP Control Panel  
 4. Open phpMyAdmin  
 5. Create a new database  
@@ -66,7 +65,6 @@ to analyze overall CO attainment efficiently.
 - Login using Enrollment Number and Password  
 
 ## 📂 Project Modules
-
 - register.php → Student Registration  
 - login.php → Student Login  
 - classtest.php → Select PA Test & Enter Marks  
@@ -78,7 +76,6 @@ to analyze overall CO attainment efficiently.
 ## 📌 Attainment Criteria
 
 CO Attainment is considered:
-
 CO Percentage ≥ 45%  → Achieved  
 CO Percentage < 45%  → Not Achieved  
 

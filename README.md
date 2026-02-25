@@ -114,5 +114,5 @@ Academic Project
 
 ## 📎 Note
 
-This project is developed for educational purposes only and demonstrates
+This project is  developed for educational purposes only and demonstrates
 the implementation of Outcome Based Education (OBE) using PHP and MySQL.

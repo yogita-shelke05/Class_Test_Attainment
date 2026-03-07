@@ -83,7 +83,7 @@ CO Percentage < 45%  → Not Achieved
 
 ### 📝 Student Registration
 <img width="680" height="690" alt="Screenshot 2025-04-16 092536" src="https://github.com/user-attachments/assets/74046040-e940-4a59-9563-104e171f3172" />
-<img width="680" height="690" alt="Screenshot 2025-04-16 092536" src="https://github.com/user-attachments/assets/e5dcf86e-8926-4cbc-a3dc-c0254299f3c8" />
+<img width="684" height="699" alt="Screenshot 2025-04-16 092649" src="https://github.com/user-attachments/assets/bb04d893-40ac-4a72-9223-8a490aa13140" />
 
 ### 🔐 Student Login
 <img width="621" height="458" alt="Screenshot 2025-04-16 092955" src="https://github.com/user-attachments/assets/b15ab513-9b3c-443f-9304-6df97237d3c6" />
@@ -93,22 +93,27 @@ CO Percentage < 45%  → Not Achieved
 
 <img width="779" height="550" alt="Screenshot 2025-04-16 093250" src="https://github.com/user-attachments/assets/ad4b1aaf-23eb-4f85-8e6a-f8c991a33031" />
 <img width="787" height="550" alt="Screenshot 2025-04-16 093316" src="https://github.com/user-attachments/assets/c542ebe4-ed32-4628-aea2-d5c5bafdaa7d" />
-<img width="775" height="606" alt="Screenshot 2025-04-16 093355" src="https://github.com/user-attachments/assets/9f1c51ce-06b2-4ad9-a198-99720d827c25" />
-<img width="1573" height="945" alt="Screenshot 2025-04-16 093649" src="https://github.com/user-attachments/assets/4b866234-268a-41a2-bea6-9f7074947269" />
-<img width="620" height="219" alt="Screenshot 2025-04-16 093757" src="https://github.com/user-attachments/assets/aa6d3134-2ba7-4dbf-8855-4b8b051dcacf" />
-
 
 ### ✍️ Enter CO-wise Marks
-![Enter CO Marks](./screenshots/enter-co-marks.png)
+<img width="775" height="606" alt="Screenshot 2025-04-16 093355" src="https://github.com/user-attachments/assets/9f1c51ce-06b2-4ad9-a198-99720d827c25" />
+<img width="1573" height="945" alt="Screenshot 2025-04-16 093649" src="https://github.com/user-attachments/assets/4b866234-268a-41a2-bea6-9f7074947269" />
 
 ### ✅ Marks Submission Confirmation
-![Marks Saved Successfully](./screenshots/marks-saved.png)
+<img width="620" height="219" alt="Screenshot 2025-04-16 093757" src="https://github.com/user-attachments/assets/aa6d3134-2ba7-4dbf-8855-4b8b051dcacf" />
 
 ### 🔑 Admin Login
-![Admin Login](./screenshots/admin-login.png)
+<img width="599" height="407" alt="Screenshot 2025-04-16 094144" src="https://github.com/user-attachments/assets/a37830db-61ab-4e43-8253-c80da653343f" />
+
 
 ### 📊 Admin Panel – Student Records & CO Attainment
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+<img width="1916" height="926" alt="Screenshot 2025-04-16 094441" src="https://github.com/user-attachments/assets/267f1c75-b931-489a-91f3-9cfdd96a8f42" />
+<img width="1865" height="419" alt="Screenshot 2025-04-16 094513" src="https://github.com/user-attachments/assets/2a74af27-d56d-428d-abad-3cd98a197ea6" />
+
+### Database - XAMPP
+<img width="1920" height="1080" alt="Screenshot 2025-04-16 094643" src="https://github.com/user-attachments/assets/e604ea72-e4c6-4ba2-aa55-9f7f2fb72302" />
+<img width="1920" height="1080" alt="Screenshot 2025-04-16 094917" src="https://github.com/user-attachments/assets/8c11eb20-6e33-4f4f-8779-8103f9506297" />
+<img width="1919" height="904" alt="Screenshot 2025-04-16 095025" src="https://github.com/user-attachments/assets/422b809f-bcab-4297-bfe8-99d83941d45b" />
+
 
 ## 🧑‍💻 Author
 

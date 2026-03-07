@@ -82,14 +82,21 @@ CO Percentage < 45%  → Not Achieved
 ## 📸 Project Screenshots
 
 ### 📝 Student Registration
-![Student Registration]<img width="680" height="690" alt="Screenshot 2025-04-16 092536" src="https://github.com/user-attachments/assets/74046040-e940-4a59-9563-104e171f3172" />
+<img width="680" height="690" alt="Screenshot 2025-04-16 092536" src="https://github.com/user-attachments/assets/74046040-e940-4a59-9563-104e171f3172" />
+<img width="680" height="690" alt="Screenshot 2025-04-16 092536" src="https://github.com/user-attachments/assets/e5dcf86e-8926-4cbc-a3dc-c0254299f3c8" />
 
 ### 🔐 Student Login
-![Student Login](./screenshots/student-login.png)
+<img width="621" height="458" alt="Screenshot 2025-04-16 092955" src="https://github.com/user-attachments/assets/b15ab513-9b3c-443f-9304-6df97237d3c6" />
+
 
 ### 🧪 Select PA Test & CO Count
-![Select PA Test](./screenshots/select-pa-test.png)
-![Select CO Count](./screenshots/select-co-count.png)
+
+<img width="779" height="550" alt="Screenshot 2025-04-16 093250" src="https://github.com/user-attachments/assets/ad4b1aaf-23eb-4f85-8e6a-f8c991a33031" />
+<img width="787" height="550" alt="Screenshot 2025-04-16 093316" src="https://github.com/user-attachments/assets/c542ebe4-ed32-4628-aea2-d5c5bafdaa7d" />
+<img width="775" height="606" alt="Screenshot 2025-04-16 093355" src="https://github.com/user-attachments/assets/9f1c51ce-06b2-4ad9-a198-99720d827c25" />
+<img width="1573" height="945" alt="Screenshot 2025-04-16 093649" src="https://github.com/user-attachments/assets/4b866234-268a-41a2-bea6-9f7074947269" />
+<img width="620" height="219" alt="Screenshot 2025-04-16 093757" src="https://github.com/user-attachments/assets/aa6d3134-2ba7-4dbf-8855-4b8b051dcacf" />
+
 
 ### ✍️ Enter CO-wise Marks
 ![Enter CO Marks](./screenshots/enter-co-marks.png)

@@ -82,7 +82,7 @@ CO Percentage < 45%  → Not Achieved
 ## 📸 Project Screenshots
 
 ### 📝 Student Registration
-![Student Registration](./screenshots/student-registration.png)
+![Student Registration]<img width="680" height="690" alt="Screenshot 2025-04-16 092536" src="https://github.com/user-attachments/assets/74046040-e940-4a59-9563-104e171f3172" />
 
 ### 🔐 Student Login
 ![Student Login](./screenshots/student-login.png)

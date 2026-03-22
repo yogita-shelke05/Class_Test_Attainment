@@ -6,6 +6,7 @@ based on Outcome Based Education (OBE).
 
 This system allows students to view their marks and enables the admin 
 to analyze overall CO attainment efficiently.
+---
 
 ## 🎯 Project Objectives
 
@@ -13,7 +14,8 @@ to analyze overall CO attainment efficiently.
 - Calculate CO-wise percentage  
 - Determine attainment status (≥ 45%)  
 - Provide complete CO analysis for admin  
-- Implement Outcome Based Education (OBE) concept  
+- Implement Outcome Based Education (OBE) concept
+- ---
 
 ## ✨ Features
 
